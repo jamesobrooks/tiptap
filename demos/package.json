@@ -45,7 +45,7 @@
     "remixicon": "^2.5.0",
     "shiki": "^1.25.1",
     "y-webrtc": "10.3.0",
-    "yjs": "13.6.23"
+    "yjs": "13.6.27"
   },
   "devDependencies": {
     "@sveltejs/vite-plugin-svelte": "3.1.2",
